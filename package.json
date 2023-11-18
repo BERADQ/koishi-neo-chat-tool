@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ts-node ."
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.1"
+  },
+  "dependencies": {
+    "ts-node": "*"
+  }
+}
